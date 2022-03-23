@@ -4,7 +4,7 @@
 
 ## Description
 
-Social Network API is an app that allows it's logged in users to view and comment on thoughts posted by them and other users
+Social Network API is an app that allows it's logged in users to view and comment on thoughts posted by them and other users. (NOTE: currently does not work. still getting errors with the mongoDB)
 
 ====================
 
@@ -25,6 +25,8 @@ Download the repo and run the database using insomnia core
 ## Usage
 
 Download the repo and run the database using insomnia core
+![image](https://user-images.githubusercontent.com/91556394/159752334-f8160850-ee67-4000-a659-0098bf280b11.png)
+unfortunately still erroring
 
 ## Contributions
 
